@@ -50,6 +50,8 @@
 
 ![](img/imag3.png)
 
+[README.md](https://github.com/SergPonomarev76/8-03-hw/blob/main/README.md?plain=1)
+
 ### Задание 2
 
 `Приведите ответ в свободной форме........`
